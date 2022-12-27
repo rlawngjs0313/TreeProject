@@ -1,1 +1,1 @@
-print("jkjj")
+print("NO")
